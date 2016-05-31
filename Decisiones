@@ -1,0 +1,2 @@
+En cuanto a la migracion de las publicaciones se migran tal cual estan en la base orignal, luego se correra el prodecimiento
+que se encarga de actualizar el estado a finaliza de las que su fecha de vencimiento haya pasado
